@@ -1,0 +1,9 @@
+# Ignore Excel data
+data/*.xlsx
+
+# Ignore logs
+logs/*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
