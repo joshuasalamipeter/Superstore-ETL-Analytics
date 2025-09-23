@@ -1,0 +1,24 @@
+Market,Region,MarketID
+Asia Pacific,Southern Asia,1
+Europe,Southern Europe,2
+Africa,North Africa,3
+Africa,Central Africa,4
+LATAM,South America,5
+Asia Pacific,Western Asia,6
+Asia Pacific,Oceania,7
+Europe,Western Europe,8
+LATAM,Caribbean,9
+Europe,Eastern Europe,10
+LATAM,Central America,11
+Africa,Western Africa,12
+Africa,Southern Africa,13
+Africa,Eastern Africa,14
+Asia Pacific,Southeastern Asia,15
+USCA,Canada,16
+Asia Pacific,Eastern Asia,17
+Europe,Northern Europe,18
+Asia Pacific,Central Asia,19
+USCA,Southern US,20
+USCA,Western US,21
+USCA,Eastern US,22
+USCA,Central US,23

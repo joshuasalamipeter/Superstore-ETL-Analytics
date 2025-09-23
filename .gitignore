@@ -1,4 +1,4 @@
-# Ignore Excel data
+# Ignore raw data
 data/*.xlsx
 
 # Ignore logs
