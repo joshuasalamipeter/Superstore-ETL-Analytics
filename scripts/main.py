@@ -36,14 +36,3 @@ print("\nReturns Sample:")
 print(returns_table.head())
 
 print("\nPeople Sample:")
-
-
-# Saving processed tables as CSV
-customers_df.to_csv("processed/customers.csv", index=False)
-products_df.to_csv("processed/products.csv", index=False)
-markets_df.to_csv("processed/markets.csv", index=False)
-orders_table.to_csv("processed/orders.csv", index=False)
-returns_table.to_csv("processed/returns.csv", index=False)
-people_table.to_csv("processed/people.csv", index=False)
-
-print("\nTransformed tables saved in /processed folder.")
